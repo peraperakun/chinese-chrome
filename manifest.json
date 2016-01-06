@@ -1,6 +1,6 @@
 {
    "background": {
-      "scripts": [ "data.js", "cperapera.js", "background.js" ]
+      "scripts": [ "data.js", "cperapera.js", "background.js", "options.js", "jquery-1.7.1.min.js" ]
    },
    "browser_action": {
       "default_icon": "images/toolbar-disabled.png",
